@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "content-assistant-worker-with-d1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a7da95d8-6504-44f3-8105-ef8b111d8e74",
+      "database_name": "content-assistant-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
